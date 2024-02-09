@@ -24,7 +24,7 @@ Practice using GitHub by creating a sample repository. Make sure you add a descr
 
 ## How to Run Program
 Here I will insert **how** this program is used. Additionally some code will be provided below:
-'print("Hello world")'
+`print("Hello world")`
 
 ## Files used
 No files were used at this time.
