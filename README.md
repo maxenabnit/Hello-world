@@ -20,7 +20,7 @@ I am making some changes!
 
 ## Description
 
-Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
+This was my first project ever created on the GitHub platform, introducing itself with the introduction *Hello World*.
 
 ## How to Run Program
 Here I will insert **how** this program is used. Additionally some code will be provided below:
