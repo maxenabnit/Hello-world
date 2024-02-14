@@ -12,7 +12,7 @@ I am making some changes!
 - [HOW TO RUN PROGRAM](#How-to-Run-Program)
 - [FILES USED](#Files-used)
 - [ADDITIONAL DOCUMENTATION](#Additional-Documentation)
-- [VERSIONING](#Versioning)
+- [VERSION](#Version)
 
 ## Project Title
 
@@ -32,5 +32,5 @@ No files were used at this time.
 ## Additional Documentation
 No documentation has yet been used.
 
-## Versioning
+## Version
 Version 1.0.0
