@@ -27,10 +27,10 @@ Here I will insert **how** this program is used. Additionally some code will be 
 `print("Hello world")`
 
 ## Files used
-No files were used at this time.
+[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
 ## Additional Documentation
 No documentation has yet been used.
 
 ## Version
-Version 1.0.0
+Version 1.0.0, Version 1.0.1 currently under development
